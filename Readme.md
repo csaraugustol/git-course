@@ -9,5 +9,3 @@ Nova linha.
 New new.
 
 Tag.
-
-Git revert.
